@@ -10,25 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4044cf48-61fc-4434-b722-99f848244d43" name="Default Changelist" comment="">
+    <list default="true" id="4044cf48-61fc-4434-b722-99f848244d43" name="Default Changelist" comment="第一次上传">
       <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/work_python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Lagou/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lagou/anamil.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lagou/cat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lagou/game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lagou/hourse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lagou/houyi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lagou/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lagou/pytest1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lagou/testtxt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics/2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basics/test.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/basics/函数.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/basics/多函数程序执行流程.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/basics/学员管理系统.py" afterDir="false" />
@@ -38,6 +22,26 @@
       <change afterPath="$PROJECT_DIR$/basics/计数器循环.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/basics/递归和匿名.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/basics/高阶函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytesttest/datas/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytesttest/datas/cacl.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytesttest/datas/t_yield.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytesttest/datas/test_fixture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytesttest/pytest1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytesttest/python_clos/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytesttest/python_clos/calk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytesttest/sub_demo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytesttest/sub_demo/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytesttest/sub_demo/pytest.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytesttest/sub_demo/test_demo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytesttest/sub_demo/test_params.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytesttest/testing/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytesttest/testing/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytesttest/testing/test_calc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytesttest/testing/test_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytesttest/testing/test_scope.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytesttest/testing/test_setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/work_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/work_python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +56,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Lagou" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JupyterTrust" id="bda9032e-a31b-476c-88c0-29428fe10f6d" />
   <component name="ProjectId" id="1nKpddifPzXx4RBMBpKUK4v1cEz" />
@@ -73,7 +77,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -81,51 +85,7 @@
       <recent name="D:\python\work_python\basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.anamil">
-    <configuration name="文件操作" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="work_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basics" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basics/文件操作.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="函数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="work_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basics" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basics/函数.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.pytest in test_fixture.py">
     <configuration name="学员管理系统" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="work_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -258,116 +218,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="anamil" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="work_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lagou" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lagou/anamil.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="cat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="work_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lagou" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lagou/cat.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="work_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lagou" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lagou/game.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="gamee" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="work_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lagou" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lagou/game1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="houyi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="work_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lagou" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lagou/houyi.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="work_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -390,13 +240,120 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="t_yield" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="work_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytesttest/datas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytesttest/datas/t_yield.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_demo1.test_a" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="work_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytesttest/sub_demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_demo1.test_a&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_scope.TestDemo" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="work_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytesttest/testing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_scope.TestDemo&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_fixture.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="work_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytesttest/datas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/pytesttest/datas/test_fixture.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_fixture.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="work_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytesttest/datas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/pytesttest/datas/test_fixture.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_params.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="work_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytesttest/sub_demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/pytesttest/sub_demo/test_params.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.anamil" />
-        <item itemvalue="Python.cat" />
-        <item itemvalue="Python.game" />
-        <item itemvalue="Python.houyi" />
-        <item itemvalue="Python.gamee" />
+        <item itemvalue="Python tests.pytest in test_fixture.py" />
+        <item itemvalue="Python tests.pytest in test_params.py" />
+        <item itemvalue="Python tests.pytest for test_demo1.test_a" />
+        <item itemvalue="Python tests.pytest for test_scope.TestDemo" />
+        <item itemvalue="Python.t_yield" />
       </list>
     </recent_temporary>
   </component>
@@ -426,8 +383,24 @@
       <workItem from="1612779420919" duration="9439000" />
       <workItem from="1612833710094" duration="15413000" />
       <workItem from="1612918258174" duration="2732000" />
-      <workItem from="1612926008457" duration="2766000" />
+      <workItem from="1612926008457" duration="24878000" />
+      <workItem from="1613000562359" duration="10647000" />
     </task>
+    <task id="LOCAL-00001" summary="第一次上传">
+      <created>1612934797840</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612934797840</updated>
+    </task>
+    <task id="LOCAL-00002" summary="第一次上传">
+      <created>1612939586190</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612939586190</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -445,55 +418,67 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次上传" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次上传" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="395" y="91" key="#Inspections" timestamp="1612859828013">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="395" y="91" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1612859828013" />
-    <state width="1493" height="266" key="GridCell.Tab.0.bottom" timestamp="1612926630081">
+    <state x="501" y="213" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1612963438312">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="266" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1612926630081" />
-    <state width="1493" height="266" key="GridCell.Tab.0.center" timestamp="1612926630081">
+    <state x="501" y="213" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1612963438312" />
+    <state width="1493" height="265" key="GridCell.Tab.0.bottom" timestamp="1613048028918">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="266" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1612926630081" />
-    <state width="1493" height="266" key="GridCell.Tab.0.left" timestamp="1612926630081">
+    <state width="1493" height="265" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613048028918" />
+    <state width="1493" height="265" key="GridCell.Tab.0.center" timestamp="1613048028918">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="266" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1612926630081" />
-    <state width="1493" height="266" key="GridCell.Tab.0.right" timestamp="1612926630081">
+    <state width="1493" height="265" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1613048028918" />
+    <state width="1493" height="265" key="GridCell.Tab.0.left" timestamp="1613048028918">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="266" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1612926630081" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1612622968875">
+    <state width="1493" height="265" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1613048028918" />
+    <state width="1493" height="265" key="GridCell.Tab.0.right" timestamp="1613048028918">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1612622968875" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1612622968875">
+    <state width="1493" height="265" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1613048028918" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1612968838887">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1612622968875" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1612622968875">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1612968838887" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1612968838887">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1612622968875" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1612622968875">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1612968838887" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1612968838886">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1612622968875" />
-    <state x="334" y="96" key="SettingsEditor" timestamp="1612928089304">
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1612968838886" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1612968838887">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="334" y="96" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1612928089304" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1612928039508">
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1612968838887" />
+    <state x="334" y="96" key="SettingsEditor" timestamp="1613048372641">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1612928039508" />
-    <state x="545" y="301" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1612927533528">
+    <state x="334" y="96" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1613048372641" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1612939608474">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="545" y="301" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824@0.0.1536.824" timestamp="1612927533528" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1612939608474" />
+    <state x="311" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1612942397461">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="311" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1612942397461" />
+    <state x="545" y="301" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1612934951967">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="545" y="301" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824@0.0.1536.824" timestamp="1612934951967" />
     <state x="481" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1612356786682">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -516,16 +501,31 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/work_python$main.coverage" NAME="main Coverage Results" MODIFIED="1611149678347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/work_python$hourse.coverage" NAME="hourse Coverage Results" MODIFIED="1611580529213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/work_python$test.coverage" NAME="test Coverage Results" MODIFIED="1611318165533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/work_python$houyi.coverage" NAME="houyi Coverage Results" MODIFIED="1612861256580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lagou" />
-    <SUITE FILE_PATH="coverage/work_python$__1_.coverage" NAME="多函数程序执行流程 (1) Coverage Results" MODIFIED="1612667841297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basics" />
+    <SUITE FILE_PATH="coverage/work_python$game1.coverage" NAME="gamee Coverage Results" MODIFIED="1612859396553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lagou" />
+    <SUITE FILE_PATH="coverage/work_python$game.coverage" NAME="game Coverage Results" MODIFIED="1612862831643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lagou" />
+    <SUITE FILE_PATH="coverage/work_python$pytest_for_test_setup_TestDemo1.coverage" NAME="pytest for test_setup.TestDemo1 Coverage Results" MODIFIED="1612946429761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytesttest/testing" />
+    <SUITE FILE_PATH="coverage/work_python$anamil.coverage" NAME="anamil Coverage Results" MODIFIED="1612926019279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lagou" />
+    <SUITE FILE_PATH="coverage/work_python$main.coverage" NAME="main Coverage Results" MODIFIED="1611149678347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/work_python$pytest_for_test_calc_TestCalc.coverage" NAME="pytest for test_calc.TestCalc Coverage Results" MODIFIED="1612947010672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytesttest/testing" />
+    <SUITE FILE_PATH="coverage/work_python$test.coverage" NAME="test Coverage Results" MODIFIED="1611318165533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/work_python$pytest_in_test_params_py.coverage" NAME="pytest in test_params.py Coverage Results" MODIFIED="1613002768660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytesttest/sub_demo" />
     <SUITE FILE_PATH="coverage/work_python$pytest1.coverage" NAME="pytest1 Coverage Results" MODIFIED="1611580871731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/work_python$cat.coverage" NAME="cat Coverage Results" MODIFIED="1612925790107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lagou" />
-    <SUITE FILE_PATH="coverage/work_python$game1.coverage" NAME="gamee Coverage Results" MODIFIED="1612859396553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lagou" />
+    <SUITE FILE_PATH="coverage/work_python$pytest_in_test_setup_py.coverage" NAME="pytest in test_setup.py Coverage Results" MODIFIED="1612946490781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytesttest/testing" />
     <SUITE FILE_PATH="coverage/work_python$.coverage" NAME="文件其他操作 Coverage Results" MODIFIED="1612849952604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basics" />
-    <SUITE FILE_PATH="coverage/work_python$game.coverage" NAME="game Coverage Results" MODIFIED="1612862831643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lagou" />
-    <SUITE FILE_PATH="coverage/work_python$anamil.coverage" NAME="anamil Coverage Results" MODIFIED="1612926019279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lagou" />
+    <SUITE FILE_PATH="coverage/work_python$pytest_for_test_fixture_test_case4.coverage" NAME="pytest for test_fixture.test_case4 Coverage Results" MODIFIED="1612964399421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytesttest/datas" />
+    <SUITE FILE_PATH="coverage/work_python$start.coverage" NAME="start Coverage Results" MODIFIED="1612938487576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basics/sendgifts" />
+    <SUITE FILE_PATH="coverage/work_python$demo.coverage" NAME="demo Coverage Results" MODIFIED="1612937506500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basics" />
+    <SUITE FILE_PATH="coverage/work_python$pytest_for_test_scope_TestDemo.coverage" NAME="pytest for test_scope.TestDemo Coverage Results" MODIFIED="1613001028749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytesttest/testing" />
+    <SUITE FILE_PATH="coverage/work_python$__1_.coverage" NAME="多函数程序执行流程 (1) Coverage Results" MODIFIED="1612667841297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basics" />
+    <SUITE FILE_PATH="coverage/work_python$pytest_for_test_demo1_test_a.coverage" NAME="pytest for test_demo1.test_a Coverage Results" MODIFIED="1613002490869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytesttest/sub_demo" />
+    <SUITE FILE_PATH="coverage/work_python$pytest_for_test_calc_TestCalc_test_add.coverage" NAME="pytest for test_calc.TestCalc.test_add Coverage Results" MODIFIED="1612950346518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytesttest/testing" />
+    <SUITE FILE_PATH="coverage/work_python$test_fixture.coverage" NAME="test.fixture Coverage Results" MODIFIED="1612962262968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytesttest/datas" />
+    <SUITE FILE_PATH="coverage/work_python$t_yield.coverage" NAME="t_yield Coverage Results" MODIFIED="1612964889886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytesttest/datas" />
+    <SUITE FILE_PATH="coverage/work_python$pytest_for_test_demo_test_param.coverage" NAME="pytest for test_demo.test_param Coverage Results" MODIFIED="1612950955343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytesttest/testing" />
+    <SUITE FILE_PATH="coverage/work_python$pytest_for_test_setup_TestDemo.coverage" NAME="pytest for test_setup.TestDemo Coverage Results" MODIFIED="1612946069389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytesttest/testing" />
+    <SUITE FILE_PATH="coverage/work_python$pytest_in_test_fixture_py.coverage" NAME="pytest in test_fixture.py Coverage Results" MODIFIED="1613048024192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytesttest/datas" />
   </component>
 </project>
